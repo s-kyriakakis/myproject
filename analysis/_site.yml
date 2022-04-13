@@ -1,5 +1,5 @@
 name: myproject
-output_dir: ../docs
+output_dir: ../docs1
 navbar:
   title: MIFO Science Team
   left:
